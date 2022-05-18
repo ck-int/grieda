@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ck-int.github.io/grieda/</id>
+    <title>Gridea</title>
+    <updated>2022-05-18T09:07:29.620Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ck-int.github.io/grieda/"/>
+    <link rel="self" href="https://ck-int.github.io/grieda/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://ck-int.github.io/grieda/images/avatar.png</logo>
+    <icon>https://ck-int.github.io/grieda/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello word]]></title>
+        <id>https://ck-int.github.io/grieda/post/hello-gridea/</id>
+        <link href="https://ck-int.github.io/grieda/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+    </entry>
+</feed>
